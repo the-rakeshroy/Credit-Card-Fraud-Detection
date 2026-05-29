@@ -1,7 +1,8 @@
-````markdown
-# Credit Card Fraud Detection
 
-### SQL + Python + Tableau End-to-End Analytics Project
+###  Credit Card Fraud Detection
+## SQL + Python + Tableau End-to-End Analytics Project
+
+![Banner](dashboards/Craditcard_Overview.png/>)
 
 ## Project Overview
 

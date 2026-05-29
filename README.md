@@ -2,7 +2,7 @@
 ###  Credit Card Fraud Detection
 ## SQL + Python + Tableau End-to-End Analytics Project
 
-![Banner](dashboards/Craditcard_Overview.png/>)
+![Banner](dashboards/Craditcard_Overview.png)
 
 ## Project Overview
 

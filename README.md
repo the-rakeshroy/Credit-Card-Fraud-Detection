@@ -1,11 +1,11 @@
 
-# Credit Card Fraud Detection
+# 💳 Credit Card Fraud Detection
 
 ⭐ Built an end-to-end analytics pipeline delivering actionable insight using SQL + Python + Tableau.
 
 ![Banner](dashboards/Craditcard_Overview.png)
 
-## Project Overview
+## 🎯 Project Overview
 
 Credit card fraud is a major challenge for financial institutions, causing financial losses, operational inefficiencies, and customer trust issues. This project demonstrates an end-to-end analytics solution designed to identify fraud patterns, analyze transaction behavior, measure fraud exposure, and deliver actionable business insights through an interactive Tableau dashboard.
 
@@ -19,11 +19,11 @@ The goal is not only to visualize fraudulent transactions but also to answer cri
 
 ---
 
-# Business Problem
+# 🚨 Business Problem
 
 Financial institutions process thousands of transactions daily. Detecting fraudulent activity quickly and accurately is essential to minimizing financial losses and improving operational efficiency.
 
-### Key Challenges
+###  Key Challenges
 
 - Detect suspicious transaction behavior
 - Identify high-risk transaction periods
@@ -43,7 +43,7 @@ This project transforms raw transaction data into meaningful business intelligen
 
 ---
 
-# Dataset Information
+# 📊 Dataset Information
 
 | Metric | Value |
 |----------|----------|

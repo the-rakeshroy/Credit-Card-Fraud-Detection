@@ -1,6 +1,7 @@
 
-###  Credit Card Fraud Detection
-## SQL + Python + Tableau End-to-End Analytics Project
+# Credit Card Fraud Detection
+
+⭐ Built an end-to-end analytics pipeline delivering actionable insight using SQL + Python + Tableau.
 
 ![Banner](dashboards/Craditcard_Overview.png)
 

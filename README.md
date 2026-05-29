@@ -434,6 +434,4 @@ Successfully developed a complete end-to-end fraud analytics solution using Pyth
 
 The project transforms over **284,000 financial transactions** into actionable business insights, enabling stakeholders to understand fraud behavior, monitor risk exposure, identify high-risk patterns, and make informed decisions through interactive business intelligence dashboards.
 
-
-```
 ```

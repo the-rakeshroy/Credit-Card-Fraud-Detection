@@ -63,28 +63,28 @@ This project transforms raw transaction data into meaningful business intelligen
 
 ---
 
-# ⚙️ Project Architecture
+# ⚙️ Project Architecture & Pipeline
 
 ```text
-Raw Dataset
-      │
-      ▼
-Python Data Cleaning
-      │
-      ▼
-Feature Engineering
-      │
-      ▼
-SQL Business Analysis
-      │
-      ▼
-Business Metrics Generation
-      │
-      ▼
-Tableau Dashboard Development
-      │
-      ▼
-Interactive Executive Reporting
+📂 Raw Transaction Data
+        │
+        ▼
+🧹 Data Cleaning & Validation (Python)
+        │
+        ▼
+🔧 Feature Engineering
+        │
+        ▼
+🗄️ SQL Business Analysis
+        │
+        ▼
+📊 KPI & Business Metrics Generation
+        │
+        ▼
+📈 Interactive Tableau Dashboard
+        │
+        ▼
+🎯 Executive Insights & Decision Support
 ````
 
 ---

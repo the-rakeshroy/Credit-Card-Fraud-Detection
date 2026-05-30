@@ -63,7 +63,7 @@ This project transforms raw transaction data into meaningful business intelligen
 
 ---
 
-# Project Architecture
+# ⚙️ Project Architecture
 
 ```text
 Raw Dataset
@@ -89,7 +89,7 @@ Interactive Executive Reporting
 
 ---
 
-# Tools & Technologies
+# 🛠️ Tools & Technologies
 
 ## Python
 
@@ -148,7 +148,7 @@ Used for:
 
 ---
 
-# Data Preparation & Feature Engineering
+# 🔧 Data Preparation & Feature Engineering
 
 Several business-focused features were created to improve fraud analysis.
 
@@ -189,7 +189,7 @@ This enables detailed time-based fraud analysis.
 
 ---
 
-# Business Questions Solved
+# ❓Business Questions Solved
 
 ## Q1. What is the overall fraud rate?
 
@@ -273,7 +273,7 @@ Fraud activity increases significantly during specific time windows.
 
 ---
 
-# Dashboard Pages
+# 📈Dashboard Pages
 
 ## Page 1 – Executive Overview
 
@@ -344,7 +344,7 @@ Support fraud investigation and risk management strategies.
 
 ---
 
-# Key Business Insights
+# 🔍 Key Business Insights
 
 ### Fraud Rate Is Low but Financial Impact Is Significant
 
@@ -368,7 +368,7 @@ Business users can explore fraud trends and insights without writing SQL queries
 
 ---
 
-# Tableau Features Implemented
+# 🎨Tableau Features Implemented
 
 * Interactive Navigation Buttons
 * Multi-Page Dashboard Design
@@ -409,7 +409,7 @@ The analysis transformed 284,807 transaction records into actionable fraud intel
 
 ---
 
-# Skills Demonstrated
+# 🚀 Skills Demonstrated
 
 ## Data Analytics
 
@@ -443,7 +443,7 @@ The analysis transformed 284,807 transaction records into actionable fraud intel
 
 ---
 
-# Project Outcome
+# 🏆 Project Outcome
 
 Successfully developed a complete end-to-end fraud analytics solution using Python, SQL, and Tableau.
 

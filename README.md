@@ -381,17 +381,31 @@ Business users can explore fraud trends and insights without writing SQL queries
 
 ---
 
-# Business Impact
+## 💼 Business Impact & Key Recommendations
 
-This solution demonstrates how analytics can help organizations:
+The analysis transformed 284,807 transaction records into actionable fraud intelligence, helping identify high-risk periods, transaction behaviors, and operational risk areas.
 
-* Reduce fraud investigation time
-* Identify high-risk transaction patterns
-* Improve monitoring efficiency
-* Support data-driven fraud management
-* Enhance operational decision-making
+| Insight                                                          | Business Impact                                         | Recommended Action                                              |
+| ---------------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------------- |
+| 🌙 Fraud activity peaks between 11 PM – 2 AM                     | Higher fraud concentration during late-night hours      | Increase fraud monitoring and alert coverage during this window |
+| 💰 High-value transactions show significantly higher fraud rates | Greater financial exposure per incident                 | Apply additional verification for high-value transactions       |
+| 🚨 Critical-risk transactions contribute the largest exposure    | Investigation resources must be prioritized efficiently | Review Critical-risk cases before High and Medium-risk cases    |
+| 📉 Fraud incidents declined from Day 1 to Day 2                  | Indicates possible behavioral or operational changes    | Investigate factors contributing to the reduction               |
+| 👥 Night shift experiences the highest fraud volume              | Operational risk is unevenly distributed                | Allocate more fraud monitoring resources to Night operations    |
 
-The dashboard converts raw transaction records into actionable business intelligence for fraud analysts, investigators, risk managers, and decision-makers.
+### Business Value Delivered
+
+✅ Improved fraud monitoring efficiency through time-based risk analysis
+
+✅ Faster investigation prioritization using risk segmentation
+
+✅ Better resource allocation through shift-level exposure insights
+
+✅ Enhanced fraud prevention through high-risk transaction identification
+
+✅ Executive-ready dashboard supporting data-driven decision-making
+
+✅ End-to-end analytics workflow from raw data to business recommendations
 
 ---
 
